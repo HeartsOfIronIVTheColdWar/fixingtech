@@ -1,0 +1,85 @@
+spriteTypes = {	
+
+  ################################################################################################################################################################################################
+  ### VIN
+  ################################################################################################################################################################################################
+
+	#Head of Government
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Phan_Huy_Quat_hog"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Phan_Huy_Quat.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_bao_dai_hog"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_bao_dai_hog.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Ngo_Dinh_Diem_hog"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Ngo_Dinh_Diem.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_ho_chi_minh_hog"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_ho_chi_minh_hog.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Ho_Tung_Mau_hog"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Ho_Tung_Mau_hog.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Nguyen_Ton_Hoan_hog"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Nguyen_Ton_Hoan_hog.dds"
+	}
+	
+	
+	
+	#Foreign Minister
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Ngo_Dinh_Diem_fm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Ngo_Dinh_Diem.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Nguyen_Huu_Tho_fm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Nguyen_Huu_Tho_fm.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Nguyen_Van_Tam_fm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Nguyen_Van_Tam_fm.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Nguyen_Cao_Ky_fm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Nguyen_Cao_Ky_fm.dds"
+	}
+	
+	
+	
+	
+	#Economy Minister
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Vu_Quoc_Thuc_em"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Vu_Quoc_Thuc_em.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Ta_Hoang_Co_em"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Ta_Hoang_Co_em.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Le_Viet_Luong_em"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Le_Viet_Luong_em.dds"
+	}
+	
+	
+	
+	#Security Minister
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Tran_Nam_Trung_sm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Tran_Nam_Trung.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Nguyen_Chi_Thanh_sm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Nguyen_Chi_Thanh_sm.dds"
+	}
+	spriteType = { #Auto-Generated
+		name = "GFX_idea_VIN_Nguyen_Van_Hinh_sm"
+		texturefile = "gfx/interface/ideas/VIN/ministers/VIN_Nguyen_Van_Hinh_sm.dds"
+	}
+}

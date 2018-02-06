@@ -1,0 +1,63 @@
+spriteTypes = {
+	
+	############
+	#Siam	
+	############
+
+	SpriteType = { # Chaiseri
+		name = "GFX_idea_chaiseri"
+		texturefile = "gfx/interface/ideas/SIA/Companies/chaiseri.dds"
+	}
+	SpriteType = { # DTI
+		name = "GFX_idea_SIA_DTI"
+		texturefile = "gfx/interface/ideas/SIA/Companies/SIA_DTI.dds"
+	}
+	SpriteType = { # Bangkok Dock
+		name = "GFX_idea_bangkok_dock"
+		texturefile = "gfx/interface/ideas/SIA/Companies/bangkok_dock.dds"
+	}
+	SpriteType = { # Thairung
+		name = "GFX_idea_thairung"
+		texturefile = "gfx/interface/ideas/SIA/Companies/thairung.dds"
+	}
+	SpriteType = { # TAI
+		name = "GFX_idea_SIA_TAI"
+		texturefile = "gfx/interface/ideas/SIA/Companies/SIA_TAI.dds"
+	}
+	SpriteType = { # Rung Pasisarn
+		name = "GFX_idea_rung_paisarn"
+		texturefile = "gfx/interface/ideas/SIA/Companies/rung_paisarn.dds"
+	}
+	SpriteType = { # MEF
+		name = "GFX_idea_SIA_MEF"
+		texturefile = "gfx/interface/ideas/SIA/Companies/SIA_MEF.dds"
+	}
+	SpriteType = { # SSR
+		name = "GFX_idea_SIA_SSR"
+		texturefile = "gfx/interface/ideas/SIA/Companies/SIA_SSR.dds"
+	}
+	SpriteType = { # Ford
+		name = "GFX_idea_SIA_ford"
+		texturefile = "gfx/interface/ideas/SIA/Companies/SIA_ford.dds"
+	}
+	SpriteType = { # Siam Cement
+		name = "GFX_idea_siam_cement"
+		texturefile = "gfx/interface/ideas/SIA/Companies/siam_cement.dds"
+	}
+	SpriteType = { # Siam Aeronautics
+		name = "GFX_idea_siam_aeronautics"
+		texturefile = "gfx/interface/ideas/SIA/Companies/siam_aeronautics.dds"
+	}
+	SpriteType = { # Tanin
+		name = "GFX_idea_tanin"
+		texturefile = "gfx/interface/ideas/SIA/Companies/tanin.dds"
+	}
+	SpriteType = { # RSAFW
+		name = "GFX_idea_RSAFW"
+		texturefile = "gfx/interface/ideas/SIA/Companies/RSAFW.dds"
+	}
+	SpriteType = { # Chulalongkorn
+		name = "GFX_idea_chulalongkorn"
+		texturefile = "gfx/interface/ideas/SIA/Companies/chulalongkorn.dds"
+	}
+}
